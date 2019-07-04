@@ -1,0 +1,105 @@
+Name,Scientific Name,Exotic,Venom,Visible,Subclass,Class
+green anole,Anolis carolinensis,0,0,3,Lizard,Reptile
+brown anole,Anolis sagrei,1,0,3,Lizard,Reptile
+racerunner,Cnemidophorus sexlineatus,0,0,3,Lizard,Reptile
+mole skink,Eumeces egregius,0,0,1,Lizard,Reptile
+southeastern five-lined skink,Eumeces inexpectatus,0,0,3,Lizard,Reptile
+Indo-Pacific gecko,Hemidactylus garnotii,1,0,1,Lizard,Reptile
+Mediterranean gecko,Hemidactylus turcicus,0,0,1,Lizard,Reptile
+slender glass lizard,Ophisaurus attenuatus,0,0,1,Lizard,Reptile
+island glass lizard,Ophisaurus compressus,0,0,1,Lizard,Reptile
+eastern glass lizard,Ophisaurus ventralis,0,0,2,Lizard,Reptile
+ground skink,Scincella lateralis,0,0,2,Lizard,Reptile
+cottonmouth,Agkistrodon piscivorus,0,1,1,Snake,Reptile
+scarlet snake,Cemophora coccinea,0,0,1,Snake,Reptile
+racer,Coluber constrictor,0,0,3,Snake,Reptile
+diamondback rattlesnake,Crotalus adamanteus,0,1,2,Snake,Reptile
+ring-necked snake,Diadophis punctatus,0,0,1,Snake,Reptile
+indigo snake,Drymarchon corais,0,0,2,Snake,Reptile
+corn snake,Elaphe guttata,0,0,2,Snake,Reptile
+yellow rat snake,Elaphe obsoleta,0,0,2,Snake,Reptile
+mud snake,Farancia abacura,0,0,1,Snake,Reptile
+eastern hognose snake,Heterodon platirhinos,0,0,1,Snake,Reptile
+common kingsnake,Lampropeltis getula,0,0,1,Snake,Reptile
+scarlet kingsnake,Lampropeltis triangulum,0,0,1,Snake,Reptile
+coachwhip,Masticophis flagellum,0,0,2,Snake,Reptile
+coral snake,Micrurus fulvius,0,1,1,Snake,Reptile
+Atlantic salt marsh snake,Nerodia clarkii,0,0,1,Snake,Reptile
+banded water snake,Nerodia fasciata,0,0,3,Snake,Reptile
+green water snake,Nerodia floridana,0,0,2,Snake,Reptile
+rough green snake,Opheodrys aestivus,0,0,2,Snake,Reptile
+pine snake,Pituophis melanoleucus,0,0,1,Snake,Reptile
+striped crayfish snake,Regina alleni,0,0,1,Snake,Reptile
+pine woods snake,Rhadinaea flavilata,0,0,1,Snake,Reptile
+black swamp snake,Seminatrix pygaea,0,0,1,Snake,Reptile
+pygmy rattlesnake,Sistrurus miliarius,0,1,1,Snake,Reptile
+brown snake,Storeria dekayi,0,0,1,Snake,Reptile
+coastal dunes crowned snake,Tantilla relicta,0,0,1,Snake,Reptile
+ribbon snake,Thamnophis sauritus,0,0,3,Snake,Reptile
+garter snake,Thamnophis sirtalis,0,0,3,Snake,Reptile
+American alligator,Alligator mississippiensis,0,0,3,Alligator,Reptile
+Loggerhead sea turtle,Caretta caretta,0,0,3,Turtle,Reptile
+Atlantic green turtle,Chelonia mydas,0,0,3,Turtle,Reptile
+leatherback sea turtle,Dermochelys coriacea,0,0,1,Turtle,Reptile
+Florida softshell turtle,Apalone ferox,0,0,3,Turtle,Reptile
+snapping turtle,Chelydra serpentina,0,0,2,Turtle,Reptile
+chicken turtle,Deirochelys reticularia,0,0,1,Turtle,Reptile
+gopher tortoise,Gopherus polyphemus,0,0,3,Turtle,Reptile
+striped mud turtle,Kinosternon baurii,0,0,2,Turtle,Reptile
+common mud turtle,Kinosternon subrubrum,0,0,2,Turtle,Reptile
+diamondback terrapin,Malaclemys terrapin,0,0,1,Turtle,Reptile
+Florida redbelly turtle,Pseudemys nelsoni,0,0,2,Turtle,Reptile
+Florida cooter,Pseudemys peninsularis,0,0,3,Turtle,Reptile
+common musk turtle,Sternotherus odoratus,0,0,2,Turtle,Reptile
+box turtle,Terrapene carolina,0,0,2,Turtle,Reptile
+two-toed amphiuma,Amphiuma means,0,0,1,Salamander,Amphibian
+red-spotted newt,Notophthalmus viridescens,0,0,1,Salamander,Amphibian
+lesser siren,Siren intermedia,0,0,1,Salamander,Amphibian
+greater siren,Siren lacertina,0,0,1,Salamander,Amphibian
+cricket frog,Acris gryllus,0,0,1,Frog,Amphibian
+oak toad,Bufo quercicus,0,0,2,Frog,Amphibian
+southern toad,Bufo terrestris,0,0,3,Frog,Amphibian
+greenhouse frog,Eleutherodactylus planirostris,1,0,2,Frog,Amphibian
+narrow-mouthed toad,Gastrophryne carolinensis,0,0,2,Frog,Amphibian
+green tree frog,Hyla cinerea,0,0,3,Frog,Amphibian
+pinewoods tree frog,Hyla femoralis,0,0,1,Frog,Amphibian
+barking tree frog,Hyla gratiosa,0,0,1,Frog,Amphibian
+squirrel tree frog,Hyla squirella,0,0,3,Frog,Amphibian
+chorus frog,Pseudacris nigrita,0,0,1,Frog,Amphibian
+little grass frog,Pseudacris ocularis,0,0,1,Frog,Amphibian
+gopher frog,Rana capito,0,0,1,Frog,Amphibian
+pig frog,Rana grylio,0,0,1,Frog,Amphibian
+leopard frog,Rana utricularia,0,0,3,Frog,Amphibian
+spadefoot toad,Scaphiopus holbrookii,0,0,2,Frog,Amphibian
+Virginia opossum,Didelphis virginiana,0,0,3,Opossum,Mammal
+least shrew,Cryptotis parva,0,0,1,Shrew,Mammal
+eastern mole,Scalopus aquaticus,0,0,1,Mole,Mammal
+southeastern bat,Myotis austroriparius,0,0,2,Bat,Mammal
+seminole bat,Lasiurus seminolus,0,0,1,Bat,Mammal
+eastern yellow bat,Lasiurus intermedius,0,0,1,Bat,Mammal
+evening bat,Nycticeius humeralis,0,0,1,Bat,Mammal
+Brazilian free-tailed bat,Tadarida brasiliensis,0,0,2,Bat,Mammal
+Nine-banded armadillo,Dasypus novemcinctus,1,0,3,Armadillo,Mammal
+marsh rabbit,Sylvilagus palustris,0,0,2,Rabbit,Mammal
+eastern cottontail,Sylvilagus floridanus,0,0,3,Rabbit,Mammal
+gray squirrel,Sciurus carolinensis,0,0,1,Squirrel,Mammal
+hispid cotton rat,Sigmodon hispidus,0,0,2,Rat,Mammal
+marsh rice rat,Oryzomys palustris,0,0,1,Rat,Mammal
+Florida mouse,Podomys floridanus,0,0,1,Mouse,Mammal
+southeastern beach mouse,Peromyscus polionotus,0,0,1,Mouse,Mammal
+cotton mouse,Peromyscus gossypinus,0,0,1,Mouse,Mammal
+golden mouse,Ochrotomys nuttallii,0,0,1,Mouse,Mammal
+round-tailed muskrat,Neofiber alleni,0,0,1,Muskrat,Mammal
+black rat,Rattus rattus,1,0,1,Rat,Mammal
+raccoon,Procyon lotor,0,0,3,Raccoon,Mammal
+long-tailed weasel,Mustela frenata,0,0,1,Weasel,Mammal
+eastern spotted skunk,Spilogale putorius,0,0,2,Skunk,Mammal
+river otter,Lutra canadensis,0,0,2,Otter,Mammal
+gray fox,Urocyon cinereoargenteus,0,0,1,Fox,Mammal
+red fox,Vulpes vulpes,1,0,1,Fox,Mammal
+bobcat,Felis rufus,0,0,2,Bobcat,Mammal
+feral cat,Felis catus,1,0,2,Cat,Mammal
+bottlenose dolphin,Tursiops truncatus,0,0,3,Dolphin,Mammal
+manatee,trichechus manatus,0,0,3,Manatee,Mammal
+wild hog,Sus scrofa,1,0,3,Hog,Mammal
+white-tailed deer,Odocoileus virginianus,0,0,1,Deer,Mammal
